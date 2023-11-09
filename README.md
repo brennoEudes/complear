@@ -1,5 +1,5 @@
 <p align="center">
-<img src=".github/complear-banner.png" alt="Complear-platform-banner" width=100%/>
+<img src=".github/complear-banner-v2.jpg" alt="Complear-platform-banner" width=100%/>
 </p>
 
 ## The Project 
