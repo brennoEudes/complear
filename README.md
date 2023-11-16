@@ -4,7 +4,7 @@
 
 ## About Complear
 
-Complear is a health tech that partners with Digital Health companies to bring medical device products to market, either with its boutique regulatory and compliance services or by building the future operating system for automating regulatory and compliance using a platform powered by Artificial Intelligence.
+<a href="https://complear.com/" target="_blank">Complear</a>is a health tech that partners with Digital Health companies to bring medical device products to market, either with its boutique regulatory and compliance services or by building the future operating system for automating regulatory and compliance using a platform powered by Artificial Intelligence.
 
 ## Activities
 
