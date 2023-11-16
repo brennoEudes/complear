@@ -37,3 +37,4 @@ href="https://www.linkedin.com/in/themiguelamador/" target="_blank">
 Miguel Amador - Founder and CIO
 </a>
 
+<a role="link" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/themiguelamador/">Miguel Amador - Founder and CIO</a>
