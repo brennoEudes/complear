@@ -33,7 +33,7 @@ The technologies used were:
 
 ## Reference
 <a
-href="https://www.linkedin.com/in/themiguelamador/" target="blank">
+href="https://www.linkedin.com/in/themiguelamador/" target="_blank">
 Miguel Amador - Founder and CIO
 </a>
 
