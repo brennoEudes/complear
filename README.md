@@ -16,7 +16,7 @@ See further details in the 2 min video and images attached.
 
 ## Product Team
 
-It was part of my daily routine to interact with the CIO and the International Product team to prioritize the tasks in the sprint (ClickUp). All commits were pushed to the GitLab platform.
+It was part of my daily routine to interact with the CIO and the International Product team to prioritize the tasks in the sprint. All commits were pushed to the GitLab platform.
 
 ## Technologies
 
