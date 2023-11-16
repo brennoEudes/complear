@@ -12,7 +12,7 @@ My responsibilities were to update and to develop new front-end features in the 
 
 Moreover, I created new product pages, with an authentication system, to verify and display the product information according to the user type. In this context, it was required to create relations between the front-end product page components, the back-end (installing NodeJS), and the Database (installing Mongo DB).
 
-See further details in the 2 min video and images attached.
+See further details in the 2-minute video and images attached (some information was protected).
 
 ## Product Team
 
