@@ -24,6 +24,7 @@ The technologies used were:
 
 - HTML;
 - CSS;
+- Tailwind;
 - JavaScript;
 - ReactJS;
 - NodeJS;
